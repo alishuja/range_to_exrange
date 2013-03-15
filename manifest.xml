@@ -1,0 +1,17 @@
+<package>
+  <description brief="range_to_exrange">
+
+     range_to_exrange
+
+  </description>
+  <author>Ali Shuja Siddiqui</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/range_to_exrange</url>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="ipa_odroidx_ultrasonic_interface"/>
+
+</package>
+
+
